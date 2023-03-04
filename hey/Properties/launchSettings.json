@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "hey": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\luis5\\OneDrive\\Documentos\\hey",
+      "remoteDebugEnabled": false
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\luis5\\OneDrive\\Documentos\\hey\\Scene\\1act.tscn"
+    }
+  }
+}

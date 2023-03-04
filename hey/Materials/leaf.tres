@@ -1,0 +1,11 @@
+[gd_resource type="SpatialMaterial" load_steps=2 format=3]
+
+[ext_resource type="Texture" uid="uid://68rdjwj13yi0" path="res://Materials/leaf.png" id="1"]
+
+[resource]
+flags_ensure_correct_normals = true
+params_billboard_keep_scale = true
+params_use_alpha_scissor = true
+params_alpha_scissor_threshold = 0.98
+albedo_color = Color( 0.501961, 0.843137, 0.00392157, 1 )
+albedo_texture = ExtResource( 1 )
